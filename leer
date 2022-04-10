@@ -1,0 +1,8 @@
+instalar react 
+npx create-react-app my-app
+
+importar cdn de normalize y skeleton en index.html
+desde cdnjs,com
+
+hacer correr
+npm start
